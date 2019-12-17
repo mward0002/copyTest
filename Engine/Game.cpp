@@ -27,6 +27,7 @@ Game::Game( MainWindow& wnd )
 	:
 	wnd( wnd ),
 	gfx( wnd )
+	//cool
 {
 }
 
